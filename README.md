@@ -6,7 +6,7 @@
   </header>
   <div class="container">
     <p>
-      I'm <a href="https://t.me/goshabio/9">Gosha</a>, a developer from Moscow
+      I'm <a href="https://t.me/goshabio/9">Gosha</a>, developer from Moscow
     </p>
     <h2>Projects</h2>
     <h3><a href="https://qixgroup.ru">QixGroup</a></h3>
