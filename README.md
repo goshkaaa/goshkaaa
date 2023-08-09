@@ -1,7 +1,7 @@
 
 <body>
   <header>
-    <h1>Hi there, I'm <a href="https:/t.me/goshabio" target="_blank">Gosha</a> 
+    <h1>Hi</h1>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   </header>
   <div class="container">
