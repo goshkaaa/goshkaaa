@@ -13,10 +13,10 @@
     <h2>Contact/About Me</h2>
     <ul>
       <li>Email: gosha@qixgroup.ru</li>
-      <li>Telegram: <a href="https:/t.me/goshkawork">@goshkawork</a></li>
+      <li>Telegram: <a href="https:/t.me/enscam">@enscam</a></li>
     </ul>
     <ul>
-      <li>My tg channel: <a href="https:/t.me/goshabio">@goshabio</a></li>
+      <li>My tg channel: <a href="https:/t.me/goshadev">@goshadev</a></li>
     </ul>
    
   </div>
