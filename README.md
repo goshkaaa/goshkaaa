@@ -9,7 +9,6 @@
     </p>
     <h2>Projects</h2>
     <h3><a href="https://qixgroup.ru">QixGroup</a></h3>
-    <h3><a href="https://drobble.studio">Drobble Studio</a></h3>
     <h2>Contact/About Me</h2>
     <ul>
       <li>Email: gosha@qixgroup.ru</li>
