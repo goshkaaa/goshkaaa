@@ -22,7 +22,6 @@
     <section class="stats">
       <h2>Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=goshkaaa&show_icons=true&theme=radical" alt="GitHub Stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=goshkaaa&theme=radical" alt="GitHub Streak">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goshkaaa&layout=compact&theme=radical" alt="Top Languages">
     </section>
   </div>
