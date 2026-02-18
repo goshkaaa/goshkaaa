@@ -8,7 +8,7 @@
       <h2>Contact/About Me</h2>
       <ul>
         <li>Telegram: <a href="https://t.me/enscam" target="_blank">@enscam</a></li>
-        <li>My TG Channel: <a href="https://t.me/goshadev" target="_blank">@goshblog</a></li>
+        <li>My TG Channel: <a href="https://t.me/goshablog" target="_blank">@goshblog</a></li>
       </ul>
     </section>
     <section class="stats">
