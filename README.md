@@ -4,19 +4,11 @@
     <h1>Hi there!</h1>
   </header>
   <div class="container">
-    <p>
-      I'm <a href="https://t.me/goshadev" target="_blank">Gosha</a>, a developer from Moscow.
-    </p>
-    <section>
-      <h2>Projects</h2>
-      <h3><a href="https://qixgroup.ru" target="_blank">QixGroup</a></h3>
-    </section>
     <section>
       <h2>Contact/About Me</h2>
       <ul>
-        <li>Email: <a href="mailto:gosha@qixgroup.ru">gosha@qixgroup.ru</a></li>
         <li>Telegram: <a href="https://t.me/enscam" target="_blank">@enscam</a></li>
-        <li>My TG Channel: <a href="https://t.me/goshadev" target="_blank">@goshadev</a></li>
+        <li>My TG Channel: <a href="https://t.me/goshadev" target="_blank">@goshblog</a></li>
       </ul>
     </section>
     <section class="stats">
